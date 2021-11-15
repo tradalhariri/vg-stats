@@ -7,7 +7,7 @@ authors = ["tradalhariri <trad.alhariri@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.9"
 jupyterlab = "^3.2.3"
-pandas = "^1.3.4"
+pandas = "1.2.1"
 
 [tool.poetry.dev-dependencies]
 
